@@ -1,3 +1,3 @@
 # ubiquitous-broccoli
 
-Test
+Test-from-terminal
